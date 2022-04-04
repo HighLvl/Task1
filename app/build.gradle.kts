@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("task1.App")
+    mainClass.set("ru.nsu.cherepanov.task1.App")
 }
 
 tasks.named<Test>("test") {
